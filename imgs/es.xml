@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://gitee.com/ab-bing/link-wechat/raw/master/sql/ESign_5.0.2.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>test</string>
+                <key>bundle-version</key>
+                <string>test</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>test</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
